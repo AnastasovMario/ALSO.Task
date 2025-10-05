@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ALSO.Task": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7254",
+      "launchBrowser": false
+    }
+  }
+}
